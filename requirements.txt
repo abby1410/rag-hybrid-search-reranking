@@ -1,0 +1,6 @@
+weaviate-client
+sentence-transformers
+huggingface_hub
+pypdf
+pandas
+numpy
